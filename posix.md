@@ -28,7 +28,7 @@
   - 빈 파일만들기
 - cat hello.txt    
 hello world!<br>
-이라는걸로 내용을 
+이라는걸로 내용을 볼 수 있다.
 
 - .filename
   - hidden file
